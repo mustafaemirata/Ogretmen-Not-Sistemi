@@ -1,0 +1,12 @@
+C:\Users\Emir\source\repos\NotSistem\NotSistem\bin\Debug\NotSistem.exe.config
+C:\Users\Emir\source\repos\NotSistem\NotSistem\bin\Debug\NotSistem.exe
+C:\Users\Emir\source\repos\NotSistem\NotSistem\bin\Debug\NotSistem.pdb
+C:\Users\Emir\source\repos\NotSistem\NotSistem\obj\Debug\NotSistem.csproj.AssemblyReference.cache
+C:\Users\Emir\source\repos\NotSistem\NotSistem\obj\Debug\NotSistem.FrmGiris.resources
+C:\Users\Emir\source\repos\NotSistem\NotSistem\obj\Debug\NotSistem.FrmOgrenciDetay.resources
+C:\Users\Emir\source\repos\NotSistem\NotSistem\obj\Debug\NotSistem.FrmOgretmenDetay.resources
+C:\Users\Emir\source\repos\NotSistem\NotSistem\obj\Debug\NotSistem.Properties.Resources.resources
+C:\Users\Emir\source\repos\NotSistem\NotSistem\obj\Debug\NotSistem.csproj.GenerateResource.cache
+C:\Users\Emir\source\repos\NotSistem\NotSistem\obj\Debug\NotSistem.csproj.CoreCompileInputs.cache
+C:\Users\Emir\source\repos\NotSistem\NotSistem\obj\Debug\NotSistem.exe
+C:\Users\Emir\source\repos\NotSistem\NotSistem\obj\Debug\NotSistem.pdb
